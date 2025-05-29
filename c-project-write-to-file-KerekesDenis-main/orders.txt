@@ -1,0 +1,10 @@
+Restaurant,Item,Location
+KFC,Marti Bucket,tkmisasd
+KFC,Hot Booster,tkmisasd
+McDonald's,Big Mac,tkmisasd
+KFC,Marti Bucket,tkmisasd
+KFC,Hot Booster,tkmisasd
+McDonald's,Big Mac,tkmisasd
+KFC,Hot Booster,Timisoara
+Pizza Hut,Large Custom Pizza,Timisoara
+McDonald's,Happy Meal,Timisoara
